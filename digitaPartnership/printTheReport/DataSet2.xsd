@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ActivitesSocialMediaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ActivitesSocialMediaConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.digitaPartnership.Properties.Settings.GlobalReference.Default.ActivitesSocialMediaConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ActivitesSocialMediaConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        client.*, top3.*
+FROM            client INNER JOIN
+                         top3 ON client.id = top3.idc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id" DataSetColumn="id" />
+              <Mapping SourceColumn="picClient" DataSetColumn="picClient" />
+              <Mapping SourceColumn="raisonSociale" DataSetColumn="raisonSociale" />
+              <Mapping SourceColumn="numTele" DataSetColumn="numTele" />
+              <Mapping SourceColumn="adress" DataSetColumn="adress" />
+              <Mapping SourceColumn="dateDebut" DataSetColumn="dateDebut" />
+              <Mapping SourceColumn="id1" DataSetColumn="id1" />
+              <Mapping SourceColumn="datee" DataSetColumn="datee" />
+              <Mapping SourceColumn="personTouchees" DataSetColumn="personTouchees" />
+              <Mapping SourceColumn="interaction" DataSetColumn="interaction" />
+              <Mapping SourceColumn="reaction" DataSetColumn="reaction" />
+              <Mapping SourceColumn="commentaire" DataSetColumn="commentaire" />
+              <Mapping SourceColumn="partage" DataSetColumn="partage" />
+              <Mapping SourceColumn="idc" DataSetColumn="idc" />
+              <Mapping SourceColumn="idsm" DataSetColumn="idsm" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet2" msprop:Generator_UserDSName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="picClient" msprop:Generator_ColumnVarNameInTable="columnpicClient" msprop:Generator_ColumnPropNameInRow="picClient" msprop:Generator_ColumnPropNameInTable="picClientColumn" msprop:Generator_UserColumnName="picClient" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="raisonSociale" msprop:Generator_ColumnVarNameInTable="columnraisonSociale" msprop:Generator_ColumnPropNameInRow="raisonSociale" msprop:Generator_ColumnPropNameInTable="raisonSocialeColumn" msprop:Generator_UserColumnName="raisonSociale" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="numTele" msprop:Generator_ColumnVarNameInTable="columnnumTele" msprop:Generator_ColumnPropNameInRow="numTele" msprop:Generator_ColumnPropNameInTable="numTeleColumn" msprop:Generator_UserColumnName="numTele" type="xs:int" minOccurs="0" />
+              <xs:element name="adress" msprop:Generator_ColumnVarNameInTable="columnadress" msprop:Generator_ColumnPropNameInRow="adress" msprop:Generator_ColumnPropNameInTable="adressColumn" msprop:Generator_UserColumnName="adress" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dateDebut" msprop:Generator_ColumnVarNameInTable="columndateDebut" msprop:Generator_ColumnPropNameInRow="dateDebut" msprop:Generator_ColumnPropNameInTable="dateDebutColumn" msprop:Generator_UserColumnName="dateDebut" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="id1" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid1" msprop:Generator_ColumnPropNameInRow="id1" msprop:Generator_ColumnPropNameInTable="id1Column" msprop:Generator_UserColumnName="id1" type="xs:int" />
+              <xs:element name="datee" msprop:Generator_ColumnVarNameInTable="columndatee" msprop:Generator_ColumnPropNameInRow="datee" msprop:Generator_ColumnPropNameInTable="dateeColumn" msprop:Generator_UserColumnName="datee" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="personTouchees" msprop:Generator_ColumnVarNameInTable="columnpersonTouchees" msprop:Generator_ColumnPropNameInRow="personTouchees" msprop:Generator_ColumnPropNameInTable="personToucheesColumn" msprop:Generator_UserColumnName="personTouchees" type="xs:int" minOccurs="0" />
+              <xs:element name="interaction" msprop:Generator_ColumnVarNameInTable="columninteraction" msprop:Generator_ColumnPropNameInRow="interaction" msprop:Generator_ColumnPropNameInTable="interactionColumn" msprop:Generator_UserColumnName="interaction" type="xs:int" minOccurs="0" />
+              <xs:element name="reaction" msprop:Generator_ColumnVarNameInTable="columnreaction" msprop:Generator_ColumnPropNameInRow="reaction" msprop:Generator_ColumnPropNameInTable="reactionColumn" msprop:Generator_UserColumnName="reaction" type="xs:int" minOccurs="0" />
+              <xs:element name="commentaire" msprop:Generator_ColumnVarNameInTable="columncommentaire" msprop:Generator_ColumnPropNameInRow="commentaire" msprop:Generator_ColumnPropNameInTable="commentaireColumn" msprop:Generator_UserColumnName="commentaire" type="xs:int" minOccurs="0" />
+              <xs:element name="partage" msprop:Generator_ColumnVarNameInTable="columnpartage" msprop:Generator_ColumnPropNameInRow="partage" msprop:Generator_ColumnPropNameInTable="partageColumn" msprop:Generator_UserColumnName="partage" type="xs:int" minOccurs="0" />
+              <xs:element name="idc" msprop:Generator_ColumnVarNameInTable="columnidc" msprop:Generator_ColumnPropNameInRow="idc" msprop:Generator_ColumnPropNameInTable="idcColumn" msprop:Generator_UserColumnName="idc" type="xs:int" minOccurs="0" />
+              <xs:element name="idsm" msprop:Generator_ColumnVarNameInTable="columnidsm" msprop:Generator_ColumnPropNameInRow="idsm" msprop:Generator_ColumnPropNameInTable="idsmColumn" msprop:Generator_UserColumnName="idsm" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTable1" />
+      <xs:field xpath="mstns:id" />
+      <xs:field xpath="mstns:id1" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

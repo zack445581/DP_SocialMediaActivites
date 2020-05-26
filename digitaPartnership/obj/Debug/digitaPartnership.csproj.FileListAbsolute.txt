@@ -1,0 +1,415 @@
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.exe.config
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.csprojResolveAssemblyReference.cache
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Properties.Resources.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.csproj.GenerateResource.Cache
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Login.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Client.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.trash.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.DashboardUserr.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.GestionActivites.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.SocialMedia.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.exe.config
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.csprojResolveAssemblyReference.cache
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Client.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.DashboardUserr.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.GestionActivites.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Login.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Properties.Resources.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.SocialMedia.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.trash.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.csproj.GenerateResource.Cache
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.pdb
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.xml
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.SocialMedia2.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Indicateurs_de_performance.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.printAll.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.gestion.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\FlashControlV71.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\bin\Debug\stdole.dll
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.print.depenses_public.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.print_the_report.Form1.resources
+C:\Users\ZAKARIA\Desktop\Activities Social Media\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires_2.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.exe.config
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\FlashControlV71.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\stdole.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.pdb
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.xml
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.csprojResolveAssemblyReference.cache
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Client.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.DashboardUserr.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires_2.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.gestion.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.GestionActivites.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Indicateurs_de_performance.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Login.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.print_the_report.Form1.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.printAll.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.print.depenses_public.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Properties.Resources.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.SocialMedia.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.trash.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.csproj.GenerateResource.Cache
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form2.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form3.resources
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\EntityFramework.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\EntityFramework.xml
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZAKARIA\Desktop\ZACK\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.propos.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\EntityFramework.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\FlashControlV71.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\stdole.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\EntityFramework.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires_2.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.gestion.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.Indicateurs_de_performance.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.print_the_report.Form1.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.printAll.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form2.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form3.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.print.depenses_public.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership\digitaPartnership\obj\Debug\digitaPartnership.propos.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\digitaPartnership.exe.config
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\EntityFramework.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ExcelDataReader.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\FlashControlV71.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\stdole.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\EntityFramework.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ExcelDataReader.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ExcelDataReader.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.csprojResolveAssemblyReference.cache
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.Client.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.DashboardUserr.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires_2.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.gestion.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.GestionActivites.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.Indicateurs_de_performance.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.Login.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.print_the_report.Form1.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.printAll.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form2.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form3.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.print.depenses_public.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.Properties.Resources.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.propos.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.SocialMedia.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.trash.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(1)\digitaPartnership\obj\Debug\digitaPartnership.csproj.GenerateResource.Cache
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\digitaPartnership.exe.config
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\EntityFramework.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ExcelDataReader.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\FlashControlV71.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\stdole.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\EntityFramework.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ExcelDataReader.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ExcelDataReader.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.csprojResolveAssemblyReference.cache
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.Client.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.DashboardUserr.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires_2.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.gestion.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.GestionActivites.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.Indicateurs_de_performance.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.Login.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.print_the_report.Form1.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.printAll.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form2.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form3.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.print.depenses_public.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.Properties.Resources.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.propos.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.SocialMedia.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.trash.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Final )\digitaPartnership\obj\Debug\digitaPartnership.csproj.GenerateResource.Cache
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\digitaPartnership.exe.config
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\digitaPartnership.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\EntityFramework.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ExcelDataReader.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\FlashControlV71.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\System.Data.SQLite.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\stdole.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\EntityFramework.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ExcelDataReader.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ExcelDataReader.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\System.Data.SQLite.xml
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.csprojResolveAssemblyReference.cache
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.Client.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.DashboardUserr.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires_2.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.Dépenses_publicitaires.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.gestion.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.GestionActivites.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.Indicateurs_de_performance.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.Login.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.print_the_report.Form1.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.printAll.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form2.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.printTheReport.Form3.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.print.depenses_public.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.Properties.Resources.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.propos.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.SocialMedia.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.trash.resources
+C:\Users\ZAKARIA\Desktop\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.csproj.GenerateResource.Cache
+C:\Users\ZAKARIA\Desktop\ZACK\Projects\DigitalPartnership\Stage\digitaPartnership(Akhdari Zakaria )\digitaPartnership\bin\Debug\digitaPartnership.exe.config
+C:\Users\ZAKARIA\Desktop\ZACK\Projects\DigitalPartnership\Stage\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.exe
+C:\Users\ZAKARIA\Desktop\ZACK\Projects\DigitalPartnership\Stage\digitaPartnership(Akhdari Zakaria )\digitaPartnership\obj\Debug\digitaPartnership.pdb
